@@ -1,7 +1,7 @@
-# DPR-Korea-Font-SinOkPyeon<br>朝鲜软件《新玉篇》内置字体
-朝鲜民主主义人民共和国的安卓软件《新玉篇》（신옥편）所附带的字体。
+# DPR-Korea-Font-SaeOkPyeon<br>朝鲜软件《新玉篇》内置字体
+朝鲜民主主义人民共和国的安卓软件《新玉篇》（새옥편）所附带的字体。
 
-The fonts included in the Android app "Sinokpyŏn"(신옥편) from the Democratic People's Republic of Korea.
+The fonts included in the Android app "Saeokpyŏn"(새옥편) from the Democratic People's Republic of Korea.
 
 ![KPH CheongPong](image/KPH_CheongPong.png)
 
@@ -23,9 +23,9 @@ These 3 fonts differ in glyph design from the [North Korean fonts](https://githu
 
 Additionally, all these fonts contain numerous rare Han characters mapped to Unicode ranges not defined for CJK ideographs.
 
-可在[Releases](https://github.com/Fisher4124/DPR-Korea-Font-SinOkPyeon/releases)页面下载字体及《新玉篇》PDF（由[Syzygy](https://github.com/syzygyyuan)提取）。
+可在[Releases](https://github.com/Fisher4124/DPR-Korea-Font-SaeOkPyeon/releases)页面下载字体及《新玉篇》PDF（由[Syzygy](https://github.com/syzygyyuan)提取）。
 
-The fonts and the _Sinokpyŏn_ PDF (extracted by [Syzygy](https://github.com/syzygyyuan)) can be downloaded from the [Releases](https://github.com/Fisher4124/DPR-Korea-Font-SinOkPyeon/releases).
+The fonts and _Saeokpyŏn_ PDF (extracted by [Syzygy](https://github.com/syzygyyuan)) can be downloaded from the [Releases](https://github.com/Fisher4124/DPR-Korea-Font-SaeOkPyeon/releases).
 
 ---
 
