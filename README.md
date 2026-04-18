@@ -23,9 +23,9 @@ These 3 fonts differ in glyph design from the [North Korean fonts](https://githu
 
 Additionally, all these fonts contain numerous rare Han characters mapped to Unicode ranges not defined for CJK ideographs.
 
-可在[Releases](https://github.com/Fisher4124/DPR-Korea-Font-SinOkPyeon/releases)页面下载字体及《新玉篇》PDF。
+可在[Releases](https://github.com/Fisher4124/DPR-Korea-Font-SinOkPyeon/releases)页面下载字体及《新玉篇》PDF（由[Syzygy](https://github.com/syzygyyuan)提取）。
 
-The fonts and the _Sinokpyŏn_ PDF can be downloaded from the [Releases](https://github.com/Fisher4124/DPR-Korea-Font-SinOkPyeon/releases).
+The fonts and the _Sinokpyŏn_ PDF (extracted by [Syzygy](https://github.com/syzygyyuan)) can be downloaded from the [Releases](https://github.com/Fisher4124/DPR-Korea-Font-SinOkPyeon/releases).
 
 ---
 
